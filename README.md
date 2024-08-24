@@ -1,2 +1,1 @@
-# web-con-bulma
-Como Crear Una Web con Bulma
+# Como Crear Una Web con Bulma
